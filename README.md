@@ -3,7 +3,7 @@ ML Project Phase 2 - Food Price Crisis Prediction
 Name: Jawad Ali
 Roll Number: BCSF23M541
 Dataset: Global Food Price Inflation
-Kaggle: https://www.kaggle.com/code/jawadali999/food-crisis-eda-phase-2
+Kaggle: https://www.kaggle.com/code/bcsf23m541jawadali/food-crisis-eda-phase-2
 
 Overview
 Phase 2 of ML Project. EDA and Preprocessing of Global Food Price Inflation dataset to predict food crises in conflict-affected countries.
